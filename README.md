@@ -1,4 +1,5 @@
-# Introduction of Linux 
+# Introduction of Linux  <sub><img width="40" height="44" alt="image" src="https://github.com/user-attachments/assets/66051fa6-8716-4291-b3b1-3a176fa051b4" /></sub>
+
 - Linux is not OS, Linux is only Kernal. It's OG OS is GNU developed by Richard Stallman, Linux Kernel is developed by Linus Tarvald
 
 - It is Open Source Linux-based Operating System. 
