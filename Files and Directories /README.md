@@ -80,22 +80,22 @@ To change directory we use "cd" command:
 cd /sub-directory
 ```
 
-2. To go to Previous Directory:
+2. To go to Parent Directory:
 ```bash
 cd ..
 ```
-(OR)
+3. To go to Previous Directory (from the history):
 
 ```bash
 cd -
 ```
 
-3. To go to Root Directory:
+4. To go to Root Directory:
 ```bash
 cd /
 ```
 
-4. To go to home directory
+5. To go to home directory
 ```bash
 cd 
 ```
