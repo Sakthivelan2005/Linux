@@ -59,6 +59,8 @@ Linux file system tree is the structured, hierarchical way Linux organizes all o
 ## 2. Absolute Path
 
 To access specific file or directory, we have to specify the Absolute Path.
+
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/41e27c92-bca3-4804-b846-01c5a1cf7c91" />
 
 
